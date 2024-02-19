@@ -1,0 +1,19 @@
+V.A.N.D.A. works in the terminal of your python ide.
+
+To run V.A.N.D.A. you also need to have aleady installed python libraries in your system. 
+
+Just import these files in your system and download their libraries:-
+
+1.import pyttsx3
+
+2.import datetime
+
+3.import speech_recognition as sr
+
+4.import wikipedia
+
+5.import webbrowser
+
+6.import os
+
+7.import smtplib
